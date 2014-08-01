@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 require_recipe "node_v0.10.28"
+=======
+include_recipe "npm_update"
+
+>>>>>>> adding node v0.10.28 recipe
 #execute "testing" do
 #  command %Q{
 #    echo "i ran at #{Time.now}" >> /root/cheftime
