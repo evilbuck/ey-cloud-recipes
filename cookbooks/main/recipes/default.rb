@@ -1,3 +1,4 @@
+require_recipe "node_v0.10.28"
 #execute "testing" do
 #  command %Q{
 #    echo "i ran at #{Time.now}" >> /root/cheftime
