@@ -1,0 +1,3 @@
+[submodule "cookbooks/ey-nodejs-upgrade"]
+	path = cookbooks/ey-nodejs-upgrade
+	url = git@github.com:jimneath/ey-nodejs-upgrade.git
