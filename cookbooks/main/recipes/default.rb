@@ -1,5 +1,6 @@
-include_recipe "npm_update"
+#include_recipe "npm_update"
 include_recipe "grunt-cli"
+include_recipe "ey-nodejs-upgrade"
 
 #execute "testing" do
 #  command %Q{
